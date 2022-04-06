@@ -1,0 +1,20 @@
+.p{
+    color:rgb(206, 117, 22);
+    background-color: aqua;
+    font: size 32px;
+    
+}
+.h1{
+    color:rgb(209, 205, 255) ;
+    background-color:burlywood;
+    border: 10px dotted blue
+}
+.p2{
+    color:coral;
+    background-color: cornflowerblue;
+}
+.p3{
+    color:cadetblue;
+    background-color : blueviolet
+
+}
